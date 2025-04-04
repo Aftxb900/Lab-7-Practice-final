@@ -1,0 +1,14 @@
+[04-Apr-2025 23:53:26 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Lab-7-Practice-final/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[04-Apr-2025 23:53:52 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Lab-7-Practice-final/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[04-Apr-2025 23:54:52 UTC] PHP Warning:  Attempt to read property "title" on null in /workspaces/Lab-7-Practice-final/.wordpress/wp-includes/class-wp-customize-widgets.php on line 923
+[04-Apr-2025 23:54:53 UTC] PHP Warning:  Undefined variable $qsid in /workspaces/Lab-7-Practice-final/.wordpress/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 958
+[04-Apr-2025 23:54:53 UTC] PHP Warning:  Undefined variable $qsid in /workspaces/Lab-7-Practice-final/.wordpress/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 960
+[04-Apr-2025 23:54:53 UTC] PHP Warning:  Undefined variable $qsid in /workspaces/Lab-7-Practice-final/.wordpress/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 967
+[04-Apr-2025 23:54:53 UTC] PHP Warning:  Undefined variable $qsid in /workspaces/Lab-7-Practice-final/.wordpress/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 968
+[04-Apr-2025 23:54:53 UTC] PHP Warning:  Undefined variable $qsid in /workspaces/Lab-7-Practice-final/.wordpress/wp-content/plugins/child-theme-configurator/includes/classes/CSS.php on line 971
+[04-Apr-2025 23:55:08 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Lab-7-Practice-final/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[04-Apr-2025 23:55:24 UTC] PHP Warning:  Attempt to read property "title" on null in /workspaces/Lab-7-Practice-final/.wordpress/wp-includes/class-wp-customize-widgets.php on line 923
+[04-Apr-2025 23:55:34 UTC] PHP Warning:  Attempt to read property "title" on null in /workspaces/Lab-7-Practice-final/.wordpress/wp-includes/class-wp-customize-widgets.php on line 923
+[04-Apr-2025 23:56:19 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Lab-7-Practice-final/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
+[04-Apr-2025 23:56:48 UTC] PHP Warning:  Attempt to read property "title" on null in /workspaces/Lab-7-Practice-final/.wordpress/wp-includes/class-wp-customize-widgets.php on line 923
+[04-Apr-2025 23:56:55 UTC] PHP Warning:  Attempt to read property "title" on null in /workspaces/Lab-7-Practice-final/.wordpress/wp-includes/class-wp-customize-widgets.php on line 923

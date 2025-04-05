@@ -2,7 +2,27 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/assemble-ikea-furniture/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/deep-clean-student-apartment/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/dog-walking-in-the-afternoon/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/help-moving-boxes/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/tech-help-set-up-new-laptop/
         </loc>
     </url>
     <url>
@@ -12,7 +32,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/my-account/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/login/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/lost-password/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/registration/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/register-as-odd-job-provider/
         </loc>
     </url>
     <url>

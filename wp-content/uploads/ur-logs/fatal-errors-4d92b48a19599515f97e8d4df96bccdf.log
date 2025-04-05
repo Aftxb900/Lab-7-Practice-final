@@ -1,0 +1,2 @@
+2025-04-05T00:40:21+00:00 CRITICAL Out of memory (allocated 54525952) (tried to allocate 4194304 bytes) in /workspaces/Lab-7-Practice-final/.wordpress/wp-content/plugins/woocommerce/includes/admin/settings/class-wc-settings-emails.php on line 587
+

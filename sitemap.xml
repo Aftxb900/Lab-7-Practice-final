@@ -57,6 +57,26 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/shop/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/cart/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/checkout/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/my-account-2/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
